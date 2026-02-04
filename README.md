@@ -6,4 +6,4 @@ A simple password generator written in rust
 2. cd password_generator
 3. cargo run
 
-make sure that cargo is installed
+make sure that rust is installed
